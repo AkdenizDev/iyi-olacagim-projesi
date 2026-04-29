@@ -52,7 +52,7 @@ Projeyi kendi yerel ortamınızda çalıştırmak için aşağıdaki adımları 
 
 2.  **Proje Klasörüne Girin:**
     ```bash
-    cd iyi-olacagim
+    cd iyi-olacagim-projesi
     ```
 
 3.  **Gerekli Bağımlılıkları Yükleyin:**
@@ -64,7 +64,7 @@ Projeyi kendi yerel ortamınızda çalıştırmak için aşağıdaki adımları 
     ```bash
     npm start
     ```
-    *(Veya projeniz hangi komutla çalışıyorsa, örneğin: `node app.js`)*
+    *(Veya projeniz hangi komutla çalışmasını ayarladıysanız, örneğin: `node app.js`)*
 
 ## 🤝 Katkıda Bulunma
 
