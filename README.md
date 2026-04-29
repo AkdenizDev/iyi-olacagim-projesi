@@ -83,5 +83,6 @@ Herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa bana ulaşmaktan ç
 
 <div align="center">
 Geliştiren: <b>carrotistekanka</b>
+    <br>
 <i>"Birlikte daha güçlüyüz."</i>
 </div>
