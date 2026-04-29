@@ -69,20 +69,19 @@ Projeyi kendi yerel ortamınızda çalıştırmak için aşağıdaki adımları 
 ## 🤝 Katkıda Bulunma
 
 Bu proje topluma fayda sağlamak amacıyla geliştirilmiştir. Eğer bir hata bulursanız veya yeni bir özellik eklemek isterseniz:
-1. Bu depoyu çatallayın (Fork).
-2. Yeni bir dal (Branch) oluşturun.
-3. Değişikliklerinizi yapın ve bir Çekme İsteği (Pull Request) gönderin.
+1. Bu projeyi forklayın.
+2. Yeni bir branch oluşturun.
+3. Değişikliklerinizi yapın ve Pull Request gönderin.
 
 ## 📧 Geri Bildirim
 
 Herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa bana ulaşmaktan çekinmeyin:
 
 * **E-posta:** [carrotistekanka@gmail.com](mailto:carrotistekanka@gmail.com)
-* **GitHub:** [@carrotistekanka](https://github.com/carrotistekanka)
 
 ---
 
 <div align="center">
-Geliştiren: <b>carrotistekanka</b> ve topluluk. <br>
+Geliştiren: <b>carrotistekanka</b>
 <i>"Birlikte daha güçlüyüz."</i>
 </div>
